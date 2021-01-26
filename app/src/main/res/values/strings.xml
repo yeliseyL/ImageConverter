@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Converter</string>
+    <string name="select_image_to_convert">Select Image to Convert</string>
+    <string name="image">Image</string>
+</resources>
